@@ -1,0 +1,156 @@
+{
+    "users": [
+        {
+            "username": "kavipriyank",
+            "fullname": "Kavipriyan K",
+            "password": "kavi2007",
+            "admin": false,
+            "address": {
+                "door": "200",
+                "street": "Long Street",
+                "county": "Big County",
+                "district": "Large District",
+                "pin": "200 200"
+            },
+            "bookInfo": {
+                "borrowed": {
+                    "books": [
+                        "Harry Potter - Order of the Phoenix",
+                        "Dead by Tonight",
+                        "Harry Pottah",
+                        "Harry Edmund"
+                    ],
+                    "dates": [
+                        "2022-08-20",
+                        "2022-08-15",
+                        "2022-12-04",
+                        "2022-12-05"
+                    ]
+                },
+                "read": {
+                    "books": [
+                        "The Unread",
+                        "A Brief Future of Time"
+                    ],
+                    "dates": [
+                        "17-07-2022",
+                        "03-07-2022"
+                    ]
+                }
+            }
+        },
+        {
+            "username": "amarvikram",
+            "fullname": "Amar Vikram",
+            "password": "amarvikram07",
+            "admin": true,
+            "address": {
+                "door": "VP Logistics",
+                "street": "Mall Road",
+                "county": "Vizeria",
+                "district": "Chennai",
+                "pin": "600 145"
+            }
+        },
+        {
+            "username": "chembiyan",
+            "fullname": "Chembiyan",
+            "password": "chemb2014",
+            "admin": false,
+            "address": {
+                "door": "200",
+                "street": "Long Street",
+                "county": "Big County",
+                "district": "Large District",
+                "pin": "200 200"
+            },
+            "bookInfo": {
+                "borrowed": {
+                    "books": [],
+                    "dates": []
+                },
+                "read": {
+                    "books": [],
+                    "dates": []
+                }
+            }
+        },
+        {
+            "username": "chembmarv",
+            "fullname": "Chembiyan Marvan",
+            "password": "chemb2014",
+            "admin": false,
+            "address": {
+                "door": "200",
+                "street": "Long Street",
+                "county": "Big Country",
+                "district": "Large District",
+                "pin": "200 200"
+            },
+            "bookInfo": {
+                "borrowed": {
+                    "books": [
+                        "Harry Potter - Order of the Phoenix"
+                    ],
+                    "dates": [
+                        "2022-12-04"
+                    ]
+                },
+                "read": {
+                    "books": [],
+                    "dates": []
+                }
+            }
+        },
+        {
+            "username": "mosho",
+            "fullname": "Mosha Mosh",
+            "password": "mashpotato",
+            "admin": false,
+            "address": {
+                "door": "207",
+                "street": "Putin Street",
+                "county": "Peaceful County",
+                "district": "Meyer",
+                "pin": "450 600"
+            },
+            "bookInfo": {
+                "borrowed": {
+                    "books": [
+                        "Dead By Tonight"
+                    ],
+                    "dates": [
+                        "2022-12-04"
+                    ]
+                },
+                "read": {
+                    "books": [],
+                    "dates": []
+                }
+            }
+        },
+        {
+            "username": "rahul",
+            "fullname": "Rahul Rahman",
+            "password": "rahul2030",
+            "admin": false,
+            "address": {
+                "door": "200",
+                "street": "Fazal Mosque Road",
+                "county": "Mariana",
+                "district": "Lincoln Bay",
+                "pin": "240 340"
+            },
+            "bookInfo": {
+                "borrowed": {
+                    "books": [],
+                    "dates": []
+                },
+                "read": {
+                    "books": [],
+                    "dates": []
+                }
+            }
+        }
+    ]
+}

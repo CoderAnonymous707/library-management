@@ -1,0 +1,266 @@
+{
+    "books": [
+        {
+            "id": "F109",
+            "name": "Harry Potter - Order of the Phoenix",
+            "genre": "Fantasy",
+            "rating": 4.9,
+            "storeInfo": {
+                "availUnits": 5,
+                "borrowedUnits": 5
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "F107",
+            "name": "Harry Potter - The Cursed Child",
+            "genre": "Fantasy",
+            "rating": 5.0,
+            "storeInfo": {
+                "availUnits": 3,
+                "borrowedUnits": 3
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "R103",
+            "name": "Harry Edmund",
+            "genre": "Romance",
+            "rating": 4.7,
+            "storeInfo": {
+                "availUnits": 6,
+                "borrowedUnits": 6
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "R103",
+            "name": "Harry Pottah",
+            "genre": "Romance",
+            "rating": 4.7,
+            "storeInfo": {
+                "availUnits": 6,
+                "borrowedUnits": 5
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "T108",
+            "name": "The Unread",
+            "genre": "Thriller",
+            "rating": 3.0,
+            "storeInfo": {
+                "availUnits": 7,
+                "borrowedUnits": 7
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "SF101",
+            "name": "A Brief Future of Time",
+            "genre": "Science Fiction",
+            "rating": 4.8,
+            "storeInfo": {
+                "availUnits": 2,
+                "borrowedUnits": 1
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "B109",
+            "name": "Wings of Fire",
+            "genre": "Biography",
+            "rating": 4.5,
+            "storeInfo": {
+                "availUnits": 6,
+                "borrowedUnits": 3
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "T101",
+            "name": "Dead By Tonight",
+            "genre": "Thriller",
+            "rating": 5.0,
+            "storeInfo": {
+                "availUnits": 5,
+                "borrowedUnits": 3
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "F145",
+            "name": "The Tales of the Dragon",
+            "genre": "Fantasy",
+            "rating": "3.4",
+            "storeInfo": {
+                "availUnits": 2,
+                "borrowedUnits": 0
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "M204",
+            "name": "Hands of Blood",
+            "genre": "Mystery",
+            "rating": "4.9",
+            "storeInfo": {
+                "availUnits": 4,
+                "borrowedUnits": 0
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "B130",
+            "name": "The Diary of Frankie Anne",
+            "genre": "Biography",
+            "rating": "4.5",
+            "storeInfo": {
+                "availUnits": 4,
+                "borrowedUnits": 0
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "R102",
+            "name": "Divided by Walls",
+            "genre": "Romance",
+            "rating": "4.2",
+            "storeInfo": {
+                "availUnits": 3,
+                "borrowedUnits": 0
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "F201",
+            "name": "The Tale of Two Towns",
+            "genre": "Fiction",
+            "rating": "4.5",
+            "storeInfo": {
+                "availUnits": 5,
+                "borrowedUnits": 0
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "C101",
+            "name": "Adventures of Hoodie Robin",
+            "genre": "Classics",
+            "rating": "4.6",
+            "storeInfo": {
+                "availUnits": 5,
+                "borrowedUnits": 1
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "C104",
+            "name": "Little Men",
+            "genre": "Classics",
+            "rating": "4.5",
+            "storeInfo": {
+                "availUnits": 6,
+                "borrowedUnits": 0
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "M103",
+            "name": "Revealing Analytics",
+            "genre": "Mathematics",
+            "rating": "4.0",
+            "storeInfo": {
+                "availUnits": 3,
+                "borrowedUnits": 0
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "T103",
+            "name": "Border of Hell",
+            "genre": "Thriller",
+            "rating": "4.7",
+            "storeInfo": {
+                "availUnits": 4,
+                "borrowedUnits": 0
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "H102",
+            "name": "Blood Lips",
+            "genre": "Horror",
+            "rating": "4.8",
+            "storeInfo": {
+                "availUnits": 4,
+                "borrowedUnits": 0
+            },
+            "demands": {
+                "requests": []
+            }
+        },
+        {
+            "id": "B192",
+            "name": "Triumph of Destiny",
+            "genre": "Biography",
+            "rating": "4.5",
+            "storeInfo": {
+                "availUnits": 3,
+                "borrowedUnits": 1
+            },
+            "demands": {
+                "requests": [
+                    "chembiyan"
+                ]
+            }
+        },
+        {
+            "id": "F130",
+            "name": "Heavenly Funeral",
+            "genre": "Fiction",
+            "rating": "3.0",
+            "storeInfo": {
+                "availUnits": 2,
+                "borrowedUnits": 0
+            },
+            "demands": {
+                "requests": []
+            }
+        }
+    ]
+}
